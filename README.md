@@ -1,4 +1,4 @@
-# copia de Pinterest con HTML5 Y CSS3
+# Copia de Pinterest con HTML5 Y CSS3
 
 Este proyecto en un clon de la interfaz de incio de Pinterest, creado puramente con HTML5 y CSS3. Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experiencia de navegación similar con funcionalidades básicas. 
 
