@@ -13,6 +13,7 @@ Este proyecto en un clon de la interfaz de incio de Pinterest, creado puramente 
 + **Google Fonts:** Para fuentes personalizados.
 
 ### Vista Previa del Proyecto
+![Demo](/imagenes/vistaprevia.png)
 
 ### Contacto
 Maria Valle: [Facebook](https://www.facebook.com/MariaValle)
